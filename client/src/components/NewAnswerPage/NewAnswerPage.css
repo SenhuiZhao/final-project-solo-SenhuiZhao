@@ -1,0 +1,22 @@
+.newQuestion-body{
+    float: left;
+    margin: 30px;
+}
+
+.Ans-form-group{
+    /* font-size: 30px; */
+    margin-top: 10px;
+}
+
+.post-question-button{
+    background-color: #0767a8;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    margin: 20px 0;
+}
+.warning{
+    color: red;
+    padding-left: 20px;
+}

@@ -1,0 +1,19 @@
+
+.new-question-form{
+    padding-left: 3%;
+}
+.new-question-form h2{
+    padding-top: 15px;
+}
+
+.post-question-button{
+    background-color: #0767a8;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    margin: 20px 0;
+}
+input {
+    margin-top: 2px;
+}
